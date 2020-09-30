@@ -1,0 +1,11 @@
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    text-align: center;
+}
+
+.github-actions {
+    width: 450px;
+    margin: 0 auto;
+}
